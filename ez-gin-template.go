@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/gin-gonic/gin/render"
+	"gopkg.in/gin-gonic/gin.v1/render"
 )
 
 type Render struct {
